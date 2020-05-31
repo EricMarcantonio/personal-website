@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5ec53c74-b6c3-4805-b001-780eec1c4f42" name="Default Changelist" comment="">
+    <list default="true" id="5ec53c74-b6c3-4805-b001-780eec1c4f42" name="Default Changelist" comment="init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,9 +11,17 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
   </component>
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="e3fd651e-90b0-43cf-ae58-9f2578a1e0df" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/EricMarcantonio/personal-website.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1ceUzIBfpmxCdgRSBO4HMbe3Bgd" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -68,7 +74,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590888813670</updated>
       <workItem from="1590888815353" duration="2641000" />
-      <workItem from="1590891736861" duration="518000" />
+      <workItem from="1590891736861" duration="6488000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1590890957673</created>
@@ -77,11 +83,36 @@
       <option name="project" value="LOCAL" />
       <updated>1590890957673</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="init">
+      <created>1590892259349</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590892259350</updated>
+    </task>
+    <task id="LOCAL-00003" summary="init">
+      <created>1590897998470</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1590897998470</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -89,14 +120,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590889662862">
+    <state x="361" y="36" key="#TypeScript" timestamp="1590894013012">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590889662862" />
-    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1590890956998">
+    <state x="361" y="36" key="#TypeScript/0.0.1536.824@0.0.1536.824" timestamp="1590894013012" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1590896065839">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590890956998" />
+    <state x="499" y="159" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1590896065839" />
+    <state x="371" y="0" key="CommitChangelistDialog2" timestamp="1590897997905">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="371" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1590897997905" />
     <state width="1515" height="190" key="GridCell.Tab.0.bottom" timestamp="1590891551899">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -113,9 +148,13 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1515" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590891551899" />
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1590890959225">
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1590898005020">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590890959225" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1590898005020" />
+    <state x="577" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590898137464">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="577" y="324" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1590898137464" />
   </component>
 </project>
