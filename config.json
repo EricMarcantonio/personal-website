@@ -1,17 +1,17 @@
 {
     "readmeUrl": "https://raw.githubusercontent.com/cveinnt/cveinnt/master/README.md",
-    "title": "LiveTerm",
-    "name": "John Doe",
-    "ascii": "liveterm",
+    "title": "Eric Marcantonio",
+    "name": "Eric Marcantonio",
+    "ascii": "Welcome!",
     "social": {
-        "github": "github",
-        "linkedin": "linkedin"
+        "github": "EricMarcantonio",
+        "linkedin": "ericmarcantonio"
     },
-    "email": "contact@email.com",
+    "email": "eric11marcantonio@gmail.com",
     "ps1_hostname": "ericmarcantonio",
     "ps1_username": "anon",
     "repo": "https://github.com/Cveinnt/LiveTerm",
-    "resume_url": "https://upload.wikimedia.org/wikipedia/commons/c/cc/Resume.pdf",
+    "resume_url": "https://github.com/EricMarcantonio/EricMarcantonio/raw/6c31d60d98779da179f8973e08e0aac01f2bdf95/Eric_Marcantonio_Resume.pdf",
     "donate_urls": {
         "paypal": "https://paypal.me/cveinnt",
         "patreon": "https://patreon.com/cveinnt"
