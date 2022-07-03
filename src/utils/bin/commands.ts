@@ -114,9 +114,8 @@ export const banner = (args?: string[]): string => {
   <h1 class="text-dark-red" >Welcome to the mind of Eric Marcantonio :) </h1>
 
 Type 'resume' for my resume
-Type 'contact' to see my contacts
-Type 'help' to see the list of available commands.
-Type 'sumfetch' to display summary.
+Type 'github' to see my contacts
+Type 'help' to see the list of other available commands.
 Type 'repo' or click <u><a class="text-light-blue dark:text-dark-blue underline" href="${config.repo}" target="_blank">here</a></u> for the Github repository.
 `;
 };
