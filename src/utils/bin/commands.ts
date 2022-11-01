@@ -111,7 +111,7 @@ export const banner = (args?: string[]): string => {
 
   return `
   <h1 class="text-dark-red" >Welcome to the mind of Eric Marcantonio :) </h1>
-
+Type 'linkedin' to visit my linkedin (highly recommended)
 Type 'resume' for my resume
 Type 'github' to see my contacts
 Type 'help' to see the list of other available commands.
